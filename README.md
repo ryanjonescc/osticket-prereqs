@@ -114,3 +114,7 @@ You will want to provide a path to the php executable file (php-cgi.exe)). Go to
 14.) On IIS go to sites -> Default -> osTicket -On the right, click “Browse *:80”
 
 ![Screenshot_14](https://github.com/user-attachments/assets/02f41c42-9baf-4d2f-abc6-0a59aa6e1503)
+Some extensions are not enabled on the osTicket browser.
+
+![Screenshot_15](https://github.com/user-attachments/assets/6bbfcc34-51ec-4cb7-aefb-836aef2b3d2e)
+
