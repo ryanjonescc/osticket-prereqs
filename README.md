@@ -146,4 +146,27 @@ Now we will add new permissions.
 
 Click Add
 
+![Screenshot_20](https://github.com/user-attachments/assets/3f402f4f-484c-4679-931a-0b17b6ae79be)
 
+Select a principal
+
+![Screenshot_21](https://github.com/user-attachments/assets/0e535290-b7fe-48c7-ba34-92a124f9b18f)
+
+Type "Everyone" in the box.
+
+![Screenshot_22](https://github.com/user-attachments/assets/7f6300e6-a606-4dc6-9d61-41cedc8093ef)
+
+Make sure Full Control and all the other boxes are checked.
+
+![Screenshot_23](https://github.com/user-attachments/assets/98084bf8-b053-4c9d-bead-7f90f12e9dbb)
+
+Click Apply and Ok.
+
+![Screenshot_24](https://github.com/user-attachments/assets/d54dca1a-821f-49dc-9b4b-f07ce36b2eff)
+
+Once that is done we will continue to setup osTicket in the browser. Click Continue on the osTicket browser page. Fill out the page as required except the Database Settings at the bottom of the page. 
+
+![Screenshot_25](https://github.com/user-attachments/assets/dfba4849-fa03-4916-a497-ef033a119434)
+
+
+We will want to download and install HeidiSQL from the Installation Files.
