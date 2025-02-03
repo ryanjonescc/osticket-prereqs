@@ -89,5 +89,5 @@ username and password is root
 ![Screenshot_9](https://github.com/user-attachments/assets/ae5d9f7f-4cad-46dc-b174-c52b0a10a310)
 
 Execute the process on the next page.
-</p>
+</p>11.) Now that we have the files downloaded and installed we will want to search for IIS in the windows search bar. Open IIS as an administrator. The program should look like this.
 <br />
