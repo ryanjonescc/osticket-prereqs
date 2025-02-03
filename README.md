@@ -80,9 +80,13 @@ To make sure the IIS is installed / enabled go to a browser of your choice and s
 
 9.) Once you have downloaded and extracted the zip file into the PHP folder on the C drive, download and install the VC_redist.x86.exe from the installation files. Go through the setup wizard to finish setting up and installing the VC_redist.x86.exe.
 
+![Screenshot_7](https://github.com/user-attachments/assets/f619d30e-b1a0-4977-807d-f9d0d33bf15f)
+
 10.) Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) Run the setup wizard: Typical Setup -> Launch Configuration Wizard (after install) -> Standard Configuration ->
 
 username and password is root
+
+![Screenshot_9](https://github.com/user-attachments/assets/ae5d9f7f-4cad-46dc-b174-c52b0a10a310)
 
 </p>
 <br />
