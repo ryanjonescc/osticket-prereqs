@@ -185,7 +185,7 @@ Once we are connected to the session we will go back to the browser to finish se
 
 We will now create a new database within HeidiSQL. In Heidi right click on the left side where is says "Unnamed", select "create new", and then select "database". Name the new database osTicket. Once we have the new database setup go back to the osTicket browser and under MySQL Database type in osTicket.
 
-![Screenshot_29](https://github.com/user-attachments/assets/770be04f-1119-4ee8-83de-5734f60fe112)
+![Screenshot_30](https://github.com/user-attachments/assets/d1387969-341e-4453-b97f-5f2c427ba8c2)
 
 The last step is to do some clean up. We will want to delete the setup folder in our system. -Delete: C:\inetpub\wwwroot\osTicket\setup Only delete the setup folder and nothing else.
 
