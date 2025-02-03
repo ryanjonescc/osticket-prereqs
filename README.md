@@ -58,7 +58,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 World Wide Web Services -> Application Development Features -> [X] CGI
 
-</p>
+![IIs](https://github.com/user-attachments/assets/9b987bc1-3350-4848-a15b-adc63e793e8b)
+
 <br />
 
 <p>
