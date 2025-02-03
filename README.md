@@ -188,9 +188,11 @@ Then click "Install now"
 
 ![Screenshot_30](https://github.com/user-attachments/assets/d1387969-341e-4453-b97f-5f2c427ba8c2)
 
-The last step is to do some clean up. We will want to delete the setup folder in our system. -Delete: C:\inetpub\wwwroot\osTicket\setup Only delete the setup folder and nothing else.
+The last step is to login to osTicket on the browser.
 
-We then will want to set the permissions back to "Read" only in the ost-config.php file.
+![Screenshot_32](https://github.com/user-attachments/assets/43c4f0b6-e58d-4fa6-9a53-07b1dfc24fd5)
+
+Congrats! You have now successfully installed and setup osTicket!
 
 
 
