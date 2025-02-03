@@ -90,4 +90,11 @@ username and password is root
 
 Execute the process on the next page.
 </p>11.) Now that we have the files downloaded and installed we will want to search for IIS in the windows search bar. Open IIS as an administrator. The program should look like this.
-<br />
+<br />12.) We will now want to register PHP from within IIS. Click on PHP Manager
+
+![Screenshot_10](https://github.com/user-attachments/assets/2786e79a-5c61-4602-9548-6b0a81883e14)
+
+
+Register new PHP version.
+
+![Screenshot_11](https://github.com/user-attachments/assets/4c3c542a-6803-474c-9009-a36f1191c40a)
