@@ -60,7 +60,7 @@ World Wide Web Services -> Application Development Features -> [X] CGI
 
 ![IIs](https://github.com/user-attachments/assets/9b987bc1-3350-4848-a15b-adc63e793e8b)
 
-<br />
+To make sure the IIS is installed / enabled go to a browser of your choice and search for 127.0.0.1 It should look something like this.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
