@@ -95,10 +95,14 @@ Execute the process on the next page.
 ![Screenshot_10](https://github.com/user-attachments/assets/2786e79a-5c61-4602-9548-6b0a81883e14)
 
 
-Register new PHP version.
+                        Register new PHP version.
 
 ![Screenshot_11](https://github.com/user-attachments/assets/4c3c542a-6803-474c-9009-a36f1191c40a)
 
 You will want to provide a path to the php executable file (php-cgi.exe)). Go to C Drive -> PHP -> click on php-cgi file.
 
 ![Screenshot_12](https://github.com/user-attachments/assets/64c5d9dd-385f-4790-8792-722996f94d5e)
+
+                        Restart the IIS server.
+
+![Screenshot_13](https://github.com/user-attachments/assets/127e2ea7-dc06-4d0d-81bc-d213c49c6f24)
