@@ -44,6 +44,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
  ![c panel](https://github.com/user-attachments/assets/4e7a3f8c-1261-4dd7-a8c5-0de789fa3674)
+![turn windows on or off](https://github.com/user-attachments/assets/9c77099b-b59d-47ce-b024-229768194f12)
 
 
 
@@ -52,7 +53,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p> 4.) You will want to install / enable IIS in Windows with CGI and Common HTTP Features
 
