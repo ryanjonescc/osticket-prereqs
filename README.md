@@ -112,3 +112,5 @@ You will want to provide a path to the php executable file (php-cgi.exe)). Go to
                       Reload IIS again.
 
 14.) On IIS go to sites -> Default -> osTicket -On the right, click “Browse *:80”
+
+![Screenshot_14](https://github.com/user-attachments/assets/02f41c42-9baf-4d2f-abc6-0a59aa6e1503)
