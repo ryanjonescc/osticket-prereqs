@@ -69,6 +69,7 @@ To make sure the IIS is installed / enabled go to a browser of your choice and s
 5.) Now that the IIS is enabled, From the Installation Files, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) Go through the install wizard and complete the install.
 
 6.) Next from the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi)
+![Screenshot_4](https://github.com/user-attachments/assets/b7c80b06-6741-4488-b7b4-a25a9a0fb816)
 
 7.) Create a folder in the C drive called PHP.
 
