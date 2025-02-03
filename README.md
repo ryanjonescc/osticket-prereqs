@@ -118,4 +118,32 @@ Some extensions are not enabled on the osTicket browser.
 
 ![Screenshot_15](https://github.com/user-attachments/assets/66910d8c-e5fa-45a0-b6dd-bb71f9fad5cc)
 
+To enable the extensions: -Go back to IIS, sites -> Default -> osTicket -Double click PHP manager -Click "Enable or disable an extension"
+
+![Screenshot_16](https://github.com/user-attachments/assets/744cae2f-736c-4816-a6dd-fcaff38ae227)
+
+![Screenshot_17](https://github.com/user-attachments/assets/fd8ad3df-4080-4788-b0fd-c697b8db153d)
+
+We will want to enable three extensions from here.
+
+1.) php_imap.dll
+
+2.) php_intl.dll
+
+3.) php_opcache.dll
+
+![Screenshot_18](https://github.com/user-attachments/assets/72c2de6c-81df-47e0-9749-a4c688a9df42)
+
+![Screenshot_19](https://github.com/user-attachments/assets/4c2fccdd-ba43-4680-89c5-622344614075)
+
+15.) Once we have those extensions enabled in IIS, we are going to want to rename one of the files in our osTicket folder. Go into the file explorer and search for C;\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+
+We are going to rename the ost-sampleconfig.php to ost-config.php
+
+Now that we have renamed the files, right click on the file and go to properties. From there click security, click on advance, and disable the inheritance. We will select Remove all inherited permissions from this object.
+
+Now we will add new permissions.
+
+Click Add
+
 
