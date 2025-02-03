@@ -192,6 +192,6 @@ The last step is to do some clean up. We will want to delete the setup folder in
 
 We then will want to set the permissions back to "Read" only in the ost-config.php file.
 
-osTicket is now installed
 
-![Screenshot_31](https://github.com/user-attachments/assets/136c59f6-ba2a-423e-8a54-3ac1953735e6)
+
+
