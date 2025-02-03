@@ -38,8 +38,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   2.) After setting up your virtual machine, connect to it using the public IP address assigned to it. Use the Remote Desktop Connection app to establish the connection.
 
  
-  
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  ![public ip address 2](https://github.com/user-attachments/assets/b6af105b-4d0f-4250-8d19-1f1c174b4900)
+
+ 
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
